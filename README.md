@@ -1,0 +1,1 @@
+# js-lifeAlgorithm-bilard-homework-sem2
